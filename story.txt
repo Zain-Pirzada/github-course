@@ -1,2 +1,3 @@
 Once upon a time, in a repo far away...
 The world was built on code.
+Suddenly, a wild bug appeared!
